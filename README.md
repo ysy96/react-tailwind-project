@@ -1,5 +1,8 @@
 # React Instagram UI
 
+## Demo Animation
+![](demo.gif)
+
 ## How to run this project?
 
 1. Install packages
